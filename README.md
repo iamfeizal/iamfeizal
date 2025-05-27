@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm an Undergraduate Information System Student at UPN Veteran Yogyakarta<br><br>- 🔭 I’m currently as Laboratory Assistant at UPN Veteran Yogyakarta<br>- 📚 I'm currently learning abcout Machine Learning using Tensorflow</p>
+<p align="left">Freshgraduate Information System Student at UPN Veteran Yogyakarta<br><br>- 🔭 I’m currently as Laboratory Assistant at UPN Veteran Yogyakarta<br>- 📚 I'm currently learning abcout Machine Learning using Tensorflow</p>
 
 ###
 
